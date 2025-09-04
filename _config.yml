@@ -3,7 +3,7 @@ title: Reciprocal Space Station
 plugins:
   - jekyll-font-awesome-sass
 
-url: https://rs-station.github.io/website-test/
+url: https://rs-station.github.io/website-test
 
 # NOTE: you can ignore this `port` line and any changes to it;
 # It is only relevant for local builds and has no effect on GitHub
